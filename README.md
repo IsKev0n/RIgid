@@ -1,0 +1,2 @@
+# RIgid
+SCRIPTS
